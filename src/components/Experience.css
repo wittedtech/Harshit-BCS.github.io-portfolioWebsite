@@ -1,0 +1,22 @@
+
+.experience-container {
+    margin: 50px auto;
+    max-width: 800px;
+  }
+  
+  .experience-item {
+    margin-bottom: 30px;
+  }
+  
+  .job-title {
+    font-weight: bold;
+  }
+  
+  .company-name {
+    color: #666;
+  }
+  
+  .job-details {
+    margin-top: 10px;
+    color: #555;
+  }
