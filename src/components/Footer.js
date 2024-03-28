@@ -1,13 +1,12 @@
 import React from 'react';
+import './Footer.css';
 
 const Footer = () => {
   return (
     <footer>
-      {/* Footer content here */}
-      <div>
-        {/* Email subscription form */}
+      <div className="footer-content">
+        <p>&copy; 2024 Your Website Name. All Rights Reserved.</p>
       </div>
-      {/* Copyright */}
     </footer>
   );
 };
